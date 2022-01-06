@@ -100,3 +100,9 @@ body {
 .wrapper .main_content .info div {
   margin-bottom: 20px;
 }
+
+/*------------ PROJECT PAGE DIFFERENT STYLING */
+.project-image {
+  width: 500px;
+  margin-bottom: 20px;
+}

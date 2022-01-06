@@ -1,0 +1,46 @@
+/* 1 */
+/* button {
+  padding: 12px 17px;
+  margin-top: 48vh;
+  margin-left: 50vw;
+  cursor: pointer;
+} */
+
+/* 2 */
+
+body {
+  box-sizing: border-box;
+}
+
+.itemContainer {
+  width: 200px;
+  text-align: center;
+  margin-top: 33vh;
+  margin-left: 45vw;
+  padding: 10px;
+  background-color: #d8d8d8;
+  border-radius: 10px;
+}
+
+.container__write input,
+.container__select input {
+  width: 80px;
+  text-align: center;
+}
+
+input {
+  padding: 7px 12px;
+  cursor: text;
+  border-radius: 20%;
+}
+
+button {
+  padding: 7px 12px;
+  cursor: pointer;
+  margin-top: 4px;
+  border-radius: 7px;
+}
+
+h1 {
+  opacity: 0;
+}
